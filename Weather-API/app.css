@@ -1,0 +1,91 @@
+body{
+    display:flex;
+    font-family:"Trebuchet MS";
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    overflow:hidden;
+    text-align:center;
+    background-position:center;
+    background-size:cover;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0,5);
+   
+}
+
+h1{
+    font-size:3em;
+    position:relative;
+    color:white;
+    text-transform:uppercase;
+}
+
+i.wi{
+    font-size:5em;
+    line-height:3em;
+    color:white;
+    
+}
+
+h2{
+    font-size:2em;
+    color:white;
+     text-transform:capitalize;
+}
+
+
+
+
+
+.clear{
+    background-image: url("sun.jpg");
+}
+
+.clouds{
+    background-image: url("clouds.jpg");
+}
+
+.rain{
+    background-image: url("rain.jpg");
+}
+
+.texte-recherche{
+    
+    font-size:18px;
+    color:#87cefa;
+    font-weight:700;
+    margin:0px 0px 10px;
+}
+
+.form{
+    background-color:#2f4f4f;
+    padding:15px;
+    border-radius:5px;
+}
+
+button{
+    border-radius:2px;
+    box-shadow: 3px 3px 0 #008b8b;
+}
+
+button#sub{
+    text-transform:uppercase;
+    color:#2f4f4f;
+    font-weight:bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.snow{
+    background-image: url("snow.jpg");
+}
